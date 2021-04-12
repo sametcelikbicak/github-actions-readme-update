@@ -1,6 +1,8 @@
 # github-actions-readme-update
 Update README file with GitHub Actions
 
+Related blog post of this repo: https://sametcelikbicak.com/github-action-ile-readme-guncelleme 
+
 
 ### 📋 Latest Blog Posts 📋
 
