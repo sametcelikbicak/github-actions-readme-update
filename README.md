@@ -7,9 +7,9 @@ Related blog post of this repo: https://sametcelikbicak.com/github-action-ile-re
 ### 📋 Latest Blog Posts 📋
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular library oluşturma ve Npm üzerinde yayınlama](https://sametcelikbicak.com/angular-library-olusturma-ve-npm-uzerinde-yayinlama)
 - [Angular custom interceptor](https://sametcelikbicak.com/angular-custom-interceptor)
 - [Angular custom pipe](https://sametcelikbicak.com/angular-custom-pipe)
 - [Yazılımcılar için faydalı web siteleri](https://sametcelikbicak.com/yazilimcilar-icin-faydali-web-siteleri)
 - [Angular ile Storage Servis hazırlama ve kullanma](https://sametcelikbicak.com/angular-ile-storage-servis-hazirlama-ve-kullanma)
-- [iTerm2, zsh ve zsh-autosuggestions kullanımı](https://sametcelikbicak.com/iterm2-zsh-ve-zsh-autosuggestions-kullanimi)
 <!-- BLOG-POST-LIST:END -->
